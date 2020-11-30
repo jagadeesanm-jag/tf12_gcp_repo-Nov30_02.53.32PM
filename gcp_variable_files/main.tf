@@ -13,3 +13,5 @@ resource "google_container_cluster" "primary" {
     }
   }
 }
+
+# Modified [main.tf] on [2020-11-30 14:54:00.605822]
